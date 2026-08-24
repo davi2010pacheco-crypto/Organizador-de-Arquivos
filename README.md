@@ -1,6 +1,6 @@
 # Organizador de Arquivos Automático
 
-Script em Python que organiza automaticamente os arquivos de uma pasta (ex: Downloads), movendo cada um para uma subpasta de acordo com sua extensão.
+Script em Python que organiza automaticamente os arquivos de uma pasta, movendo cada um para uma subpasta de acordo com sua extensão.
 
 > **Feito para terminal Linux.** O script usa caminhos e comandos no padrão Linux (ex: `/home/usuario/Downloads`) e a automação (seção mais abaixo) é feita com `cron`, ferramenta nativa do Linux. Mas pode ser usador em Windows e MacOS.
 
